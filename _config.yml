@@ -1,3 +1,14 @@
-title: "SmartCents Guide"
-description: "Your go-to resource for personal finance tips and advice."
-theme: jekyll-theme-cayman
+title: "SmartCents Guide"             # Blog title
+description: "Insights and tips on personal finance, budgeting, and investments"
+theme: jekyll-theme-cayman            # Replace with the chosen theme
+url: "https://juanito777tt.github.io"     # Replace 'username' with your GitHub username
+baseurl: ""                           # Leave empty
+
+# Social links
+twitter_username: SmartCentsGuide     # Add your Twitter handle
+github_username: @smartcentsguide            # Replace with your GitHub username
+
+# Customize the appearance
+plugins:
+  - jekyll-seo-tag                    # For search engine optimization
+  - jekyll-sitemap                    # Sitemap for search engines
