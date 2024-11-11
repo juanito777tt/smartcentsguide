@@ -1,7 +1,7 @@
 # Site settings
 title: "SmartCents Guide"               # Blog title
-description: "Master your money, Maximise your life."
-url: "https://juanito777tt.github.io"       # Replace with your GitHub username
+description: "Personal finance tips, budgeting advice, and investment strategies."
+url: "https://juanito777tt.github.io"       # Replace 'username' with your GitHub username
 baseurl: ""                             # Leave empty
 
 # Theme settings
