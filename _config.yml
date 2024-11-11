@@ -5,8 +5,8 @@ url: "https://juanito777tt.github.io"     # Replace 'username' with your GitHub 
 baseurl: ""                           # Leave empty
 
 # Social links
-twitter_username: SmartCentsGuide     # Add your Twitter handle
-github_username: @smartcentsguide            # Replace with your GitHub username
+twitter_username: smartcentsguide     # Add your Twitter handle
+github_username: smartcentsguide            # Replace with your GitHub username
 
 # Customize the appearance
 plugins:
