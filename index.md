@@ -27,4 +27,4 @@ title: "Home"
 
 ---
 
-Stay up to date with the latest articles by following us on [Twitter](https://twitter.com/smartcentsguide).
+Stay up to date with the latest articles by following us on [Twitter](https://twitter.com/SmartCentsGuide).
