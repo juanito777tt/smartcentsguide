@@ -58,4 +58,4 @@ Investing doesn’t have to be complicated. Start with these strategies, stay pa
 
 ---
 
-For more beginner tips, follow us on [Twitter](https://twitter.com/SmartCentsGuide).
+For more beginner tips, follow us on [Twitter](https://twitter.com/smartcentsguide).
