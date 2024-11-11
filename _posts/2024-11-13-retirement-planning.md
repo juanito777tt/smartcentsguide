@@ -44,4 +44,4 @@ Remember: The earlier you start, the better off you'll be in retirement. Take th
 
 ---
 
-For more retirement tips, follow us on [Twitter](https://twitter.com/SmartCentsGuide).
+For more retirement tips, follow us on [Twitter](https://twitter.com/smartcentsguide).
