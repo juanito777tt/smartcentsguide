@@ -1,1 +1,28 @@
+# Site settings
+title: "SmartCents Guide"               # Blog title
+description: "Personal finance tips, budgeting advice, and investment strategies."
+url: "https://juanito777tt.github.io"    # GitHub username URL (change if you have a custom domain)
+baseurl: ""                             # Leave empty unless using a subfolder (e.g., '/myblog')
+
+# Theme settings
+theme: jekyll-theme-cayman              # Theme for the site
+
+# Social links (replace with your own social media handles)
+twitter_username: SmartCentsGuide       # Your Twitter handle
+github_username: juanito777tt           # Your GitHub username
+
+# Plugins for additional features
+plugins:
+  - jekyll-seo-tag                      # For SEO optimization
+  - jekyll-sitemap                       # Generates a sitemap for search engines
+
+# Build settings
+exclude:
+  - README.md                           # Optional: Exclude files like README if you don't want them in the public folder
+
+# Google Analytics (optional, uncomment to use)
+# google_analytics: UA-XXXXXXXX-X        # Replace with your Google Analytics tracking ID
+
+# Permalinks (format for post URLs)
+permalink: /:year/:month/:day/:title/   # URL format for posts (e.g., /2024/11/11/start-budgeting/)
 
