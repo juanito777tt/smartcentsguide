@@ -1,28 +1,34 @@
-# Site settings
-title: "SmartCentsGuide"               # Blog title
-description: "Personal finance tips, budgeting advice, and investment strategies."
-url: "https://juanito777tt.github.io"   # Your GitHub username and site URL
-baseurl: ""                             # Leave empty unless using a subfolder (e.g., /myblog)
+# Basic Settings
+title: "SmartCentsGuide"           # Your site title
+description: "Master Your Money, Maximize Your Life"  # Short description of your site
+author: "Your Name"                 # Your name or brand name
 
-# Theme settings
-theme: caymen              # Choose your theme (e.g., cayman, minimal, slate)
+# GitHub Pages Settings
+# Use the name of your GitHub repository if the site is hosted in a subdirectory.
+# Leave it blank if it’s hosted at the root (like https://username.github.io).
+baseurl: "/smartcentsguide"    # Example: "/SmartCentsGuide" if hosted in a subdirectory
+url: "https://juanito777tt.github.io"  # Full URL to your GitHub Pages site
 
-# Social links (replace with your own social media handles)
-twitter_username: smartcentsguide       # Your Twitter handle (no capitals)
-github_username: juanito777tt           # Your GitHub username
+# Theme Settings
+theme: minima                        # Replace 'minima' with the name of your theme if using a GitHub-supported theme
+# remote_theme: jekyll/minima       # If using a remote theme, uncomment and set here
 
-# Plugins for additional features
+# Plugins (optional)
+# GitHub Pages supports these plugins natively.
 plugins:
-  - jekyll-seo-tag                      # For SEO optimization
-  - jekyll-sitemap                      # Generates a sitemap for search engines
+  - jekyll-feed                      # Adds an RSS feed
+  - jekyll-seo-tag                   # Helps with SEO metadata
 
-# Build settings
-exclude:
-  - README.md                           # Optional: Exclude files like README if you don't want them in the public folder
+# Build Settings
+markdown: kramdown
+highlighter: rouge                   # Syntax highlighter
 
-# Google Analytics (optional, uncomment to use)
-# google_analytics: UA-XXXXXXXX-X        # Replace with your Google Analytics tracking ID
+# Additional Settings (optional)
+# Customize these as needed based on your theme documentation.
+permalink: pretty                    # URL format (like /post-title/)
+paginate: 5                          # Number of posts per page
 
-# Permalinks (format for post URLs)
-permalink: /2024/11/11/my-first-post/    # Creates URLs like /2024/11/11/my-first-post/
-
+# Social Links (optional)
+twitter_username: "smartcentsguide"
+github_username: "juanito777tt"
+linkedin_username: "yourLinkedInUsername"
