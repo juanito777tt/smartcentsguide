@@ -6,7 +6,7 @@ author: "smartcentsguide"                 # Your name or brand name
 # GitHub Pages Settings
 # Use the name of your GitHub repository if the site is hosted in a subdirectory.
 # Leave it blank if it’s hosted at the root (like https://username.github.io).
-baseurl: "/smartcentsguide"    # Example: "/SmartCentsGuide" if hosted in a subdirectory
+baseurl: ""    # Example: "/SmartCentsGuide" if hosted in a subdirectory
 url: "https://juanito777tt.github.io"  # Full URL to your GitHub Pages site
 
 # Theme Settings
