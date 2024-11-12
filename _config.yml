@@ -1,7 +1,7 @@
 # Basic Settings
 title: "SmartCentsGuide"           # Your site title
 description: "Master Your Money, Maximize Your Life"  # Short description of your site
-author: "Your Name"                 # Your name or brand name
+author: "smartcentsguide"                 # Your name or brand name
 
 # GitHub Pages Settings
 # Use the name of your GitHub repository if the site is hosted in a subdirectory.
@@ -10,7 +10,7 @@ baseurl: "/smartcentsguide"    # Example: "/SmartCentsGuide" if hosted in a subd
 url: "https://juanito777tt.github.io"  # Full URL to your GitHub Pages site
 
 # Theme Settings
-theme: minima                        # Replace 'minima' with the name of your theme if using a GitHub-supported theme
+theme: caymen                       # Replace 'minima' with the name of your theme if using a GitHub-supported theme
 # remote_theme: jekyll/minima       # If using a remote theme, uncomment and set here
 
 # Plugins (optional)
